@@ -19,3 +19,4 @@ void libera_Fila(TFila *fila);
 int insere_Fila(TFila *fila, TItem item);
 int remove_Fila(TFila *fila);
 int consulta_Fila(TFila *fila, TItem *item);
+
